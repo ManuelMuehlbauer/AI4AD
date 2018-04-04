@@ -7,12 +7,12 @@ using genetic programming for architectural shape generation.
 Dependencies
 ------------
 
-Python 3.6.0
-OpenCV 3.4.1 + contrib
-Scikit Learn 0.0
-Numpy = 1.14.1
-Matplotlib 2.2.0
-SciPy 1.0.0
+1. Python 3.6.0
+2. OpenCV 3.4.1 + contrib
+3. Scikit Learn 0.0
+4. Numpy = 1.14.1
+5. Matplotlib 2.2.0
+6. SciPy 1.0.0
 
 Related Papers
 --------------
