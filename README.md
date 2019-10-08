@@ -2,17 +2,17 @@ Typogenetic Design
 ==================
 
 RhinoPython Script for Rhinoceros 6. Provides an interface for interactive architectural optimisation 
-using genetic programming for architectural shape generation.
+using genetic programming for 3D shape generation.
 
 Dependencies
 ------------
 
-1. Python 3.6.0
-2. OpenCV 3.4.1 + contrib
-3. Scikit Learn 0.0
-4. Numpy = 1.14.1
-5. Matplotlib 2.2.0
-6. SciPy 1.0.0
+1. Python 3.7.1 32bit
+2. OpenCV 4.1.1.26
+3. Scikit Learn 0.21.3
+4. Numpy = 1.15.3
+5. Matplotlib 3.0.1
+6. SciPy 1.1.0
 
 Related Papers
 --------------
