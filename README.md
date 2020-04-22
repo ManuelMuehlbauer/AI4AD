@@ -8,11 +8,11 @@ Dependencies
 ------------
 
 1. Python 3.7.1 32bit
-2. OpenCV 4.1.1.26
-3. Scikit Learn 0.21.3
-4. Numpy = 1.15.3
-5. Matplotlib 3.0.1
-6. SciPy 1.1.0
+2. OpenCV 4.2.0.34
+3. Scikit Learn 0.22.2
+4. Numpy = 1.18.3
+5. Matplotlib 3.2.1
+6. SciPy 1.4.1
 
 Related Papers
 --------------
